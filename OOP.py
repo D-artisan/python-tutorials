@@ -22,3 +22,7 @@ print(emp_2.email)
 
 print(emp_1.fullname())
 print(emp_2.fullname())
+
+# When we run emp_1.fullname(), it is actually expanded as shown below
+Employee.fullname(emp_1)
+print(Employee.fullname(emp_1))
