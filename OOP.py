@@ -2,23 +2,23 @@
 
 # Class is a blueprint for creating instances (objects)
 class Employee:
-    pass
+    def __init__(self, fname, lname, pay):
+        self.fname = fname
+        self.lname = lname
+        self.pay = pay
+        self.email = fname + '.' + lname + '@company.com'
 
-emp_1 = Employee()
-emp_2 = Employee()
+    def fullname(self):
+        return '{} {}'.format(self.fname, self.lname)
 
-print(emp_1)
-print(emp_2)
+emp_1 = Employee('Dan', 'Boakye', 1250000)
+emp_2 = Employee('Qweku', 'Sarfo', 158400)
 
-emp_1.first = 'Dan'
-emp_1.last = 'Boakye'
-emp_1.email = 'dan@test.com'
-emp_1.pay = 1250000
-
-emp_2.first = 'Qweku'
-emp_2.last = 'Sarfo'
-emp_2.email = 'qweku@test.com'
-emp_2.pay = 158400
+# print(emp_1)
+# print(emp_2)
 
 print(emp_1.email)
 print(emp_2.email)
+
+print(emp_1.fullname())
+print(emp_2.fullname())
