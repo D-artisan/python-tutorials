@@ -1,4 +1,5 @@
 # Python Tutorials
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 A collection of beginner-friendly Python tutorials to help you learn and master Python programming concepts.
 
@@ -50,6 +51,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Have questions? Feel free to reach out via [GitHub Issues](https://github.com/D-artisan/python-tutorials/issues).
 
 Happy coding! 🐍
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
