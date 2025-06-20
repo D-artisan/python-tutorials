@@ -33,21 +33,9 @@ This repository contains a series of Python tutorials covering topics like varia
 - Open a tutorial file in your editor, read the comments, and run it with:
   ```bash
   python <filename>.py
+  python <filename>.ipynb
   ```
 - Experiment with the code to deepen your understanding!
 
-## Contributing
-Contributions are welcome! If you’d like to add a tutorial or improve an existing one:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/new-tutorial`).
-3. Commit your changes (`git commit -m "Add new tutorial on X"`).
-4. Push to your branch (`git push origin feature/new-tutorial`).
-5. Open a Pull Request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-Have questions? Feel free to reach out via [GitHub Issues](https://github.com/D-artisan/python-tutorials/issues).
 
 Happy coding! 
