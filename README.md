@@ -50,4 +50,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 Have questions? Feel free to reach out via [GitHub Issues](https://github.com/D-artisan/python-tutorials/issues).
 
-Happy coding! 🐍
+Happy coding! 
